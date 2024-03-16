@@ -1,0 +1,37 @@
+{
+  "name": "dcode-youtube-butonlu-ticket-bot",
+  "version": "0.0.1",
+  "description": "https://www.youtube.com/channel/UCUj7NX8pTHOZ-_x2kkamGng | Apache-2.0. Lisanslı",
+  "main": "dcodeyt.js",
+  "scripts": {
+    "test": "!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.youtube.com/channel/UCUj7NX8pTHOZ-_x2kkamGng"
+  },
+  "keywords": [
+    "https://www.youtube.com/channel/UCUj7NX8pTHOZ-_x2kkamGng"
+  ],
+  "author": "https://www.youtube.com/channel/UCUj7NX8pTHOZ-_x2kkamGng | Discord Account : Deathh#3844 | Efe Çelik",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "asycn": "0.0.1-security",
+    "async": "^3.2.3",
+    "chalk": "^4.1.2",
+    "common-tags": "^1.8.1",
+    "discord-buttons": "^4.0.0",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security",
+    "g": "^2.0.1",
+    "humanize-duration": "^3.27.1",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.2.3",
+    "npm": "^8.3.1",
+    "quick.db": "^7.1.3"
+
+  }
+}
